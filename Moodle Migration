@@ -1,0 +1,15 @@
+###
+
+Moodle Migration from one server to another
+
+###
+
+- Deny access from all users by enabling Maintenance Mode
+- Backup Database (mysqldump)
+- Backup moodledata directory (using tar)
+- Backup moodle (using tar)
+- Transfer all backup files
+- Install and setup all depending currencies (refer to moodlestack repository)
+- Unzip the files and setup a new database for moodle
+- Configure the config.php in moodle directory
+- Open web 
