@@ -1,0 +1,750 @@
+/* Kinder Theme Format */
+body{ background-color: #f2c85b; }
+#nav-drawer .list-group .list-group-item:hover{ background-color:  #f86e51; }
+h3, li.breadcrumb-item, span.text, span.instancename { font-size: 27px; }
+i.fa.fa-universal-access { color: #fff; }
+a, i{ color:  #f86e51; }
+.btn.btn-primary{ background-color:  #f86e51; }
+nav.navbar ul.navbar-nav { color:  #f86e51; }
+#nav-drawer-footer{background-color:  #f86e51;}
+.list-group-item:hover{background-color:  #f86e51;}
+.slicon-menu, .slicon-screen-smartphone { color: #fff; }
+nav.navbar .drawer-toggle{ background-color:  #f2c85b; }
+
+/* Header */
+nav.navbar .logo img { max-height: 70px;  }
+
+/* Quiz */
+span.questionflagtest { font-size: 14.86px }
+
+/* Elementary Grade 1 - Joel */
+body.category-22 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #33539e;}
+body.category-22 { background-color: #7facd6; }
+body.category-22 #nav-drawer .list-group .list-group-item:hover{ background-color: #a5678e; }
+body.category-22 span.text { font-size: 27px; }
+body.category-22 i.fa.fa-universal-access { color: #fff; }
+body.category-22 a, body.category-22 i{ color:  #a5678e; }
+body.category-22 .btn.btn-primary{ background-color:  #a5678e; color: #fff }
+body.category-22 nav.navbar ul.navbar-nav { color:  #a5678e; }
+body.category-22 #nav-drawer-footer{background-color:  #a5678e;}
+body.category-22 .list-group-item:hover{background-color:  #a5678e;}
+body.category-22 .slicon-menu, body.category-22 .slicon-screen-smartphone { color: #fff; }
+body.category-22 nav.navbar .drawer-toggle{ background-color:  #7facd6; }
+
+/* Elementary Grade 1 - Job 4 */
+body.category-23 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #33539e;}
+body.category-23 { background-color: #7facd6; }
+body.category-23 #nav-drawer .list-group .list-group-item:hover{ background-color: #a5678e; }
+body.category-23 span.text { font-size: 27px; }
+body.category-23 i.fa.fa-universal-access { color: #fff; }
+body.category-23 a, body.category-23 i{ color:  #a5678e; }
+body.category-23 .btn.btn-primary{ background-color:  #a5678e; color: #fff }
+body.category-23 nav.navbar ul.navbar-nav { color:  #a5678e; }
+body.category-23 #nav-drawer-footer{background-color:  #a5678e;}
+body.category-23 .list-group-item:hover{background-color:  #a5678e;}
+body.category-23 .slicon-menu, body.category-23 .slicon-screen-smartphone { color: #fff; }
+body.category-23 nav.navbar .drawer-toggle{ background-color:  #7facd6; }
+
+/* Elementary Grade 2 - Micah */
+body.category-24 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #33539e;}
+body.category-24 { background-color: #7facd6; }
+body.category-24 #nav-drawer .list-group .list-group-item:hover{ background-color: #a5678e; }
+body.category-24 a, body.category-24 span{ font-size: 27px; }
+body.category-24 i.fa.fa-universal-access { color: #fff; }
+body.category-24 a, body.category-24 i{ color:  #a5678e; }
+body.category-24 .btn.btn-primary{ background-color:  #a5678e; color: #fff }
+body.category-24 nav.navbar ul.navbar-nav { color:  #a5678e; }
+body.category-24 #nav-drawer-footer{background-color:  #a5678e;}
+body.category-24 .list-group-item:hover{background-color:  #a5678e;}
+body.category-24 .slicon-menu, body.category-24 .slicon-screen-smartphone { color: #fff; }
+body.category-24 nav.navbar .drawer-toggle{ background-color:  #7facd6; }
+
+/* Elementary Grade 2- Esther */
+body.category-25 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #33539e;}
+body.category-25 { background-color: #7facd6; }
+body.category-25 #nav-drawer .list-group .list-group-item:hover{ background-color: #a5678e; }
+body.category-25 a, body.category-25 span{ font-size: 27px; }
+body.category-25 i.fa.fa-universal-access { color: #fff; }
+body.category-25 a, body.category-25 i{ color:  #a5678e; }
+body.category-25 .btn.btn-primary{ background-color:  #a5678e; color: #fff }
+body.category-25 nav.navbar ul.navbar-nav { color:  #a5678e; }
+body.category-25 #nav-drawer-footer{background-color:  #a5678e;}
+body.category-25 .list-group-item:hover{background-color:  #a5678e;}
+body.category-25 .slicon-menu, body.category-25 .slicon-screen-smartphone { color: #fff; }
+body.category-25 nav.navbar .drawer-toggle{ background-color:  #7facd6; }
+
+/* Elementary Grade 3 - Amos */
+body.category-26 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #33539e;}
+body.category-26 { background-color: #7facd6; }
+body.category-26 #nav-drawer .list-group .list-group-item:hover{ background-color: #a5678e; }
+body.category-26 a, body.category-26 span{ font-size: 27px; }
+body.category-26 i.fa.fa-universal-access { color: #fff; }
+body.category-26 a, body.category-26 i{ color:  #a5678e; }
+body.category-26 .btn.btn-primary{ background-color:  #a5678e; color: #fff }
+body.category-26 nav.navbar ul.navbar-nav { color:  #a5678e; }
+body.category-26 #nav-drawer-footer{background-color:  #a5678e;}
+body.category-26 .list-group-item:hover{background-color:  #a5678e;}
+body.category-26 .slicon-menu, body.category-26 .slicon-screen-smartphone { color: #fff; }
+body.category-26 nav.navbar .drawer-toggle{ background-color:  #7facd6; }
+
+/* Elementary Grade 3 - Daniel */
+body.category-27 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #33539e;}
+body.category-27 { background-color: #7facd6; }
+body.category-27 #nav-drawer .list-group .list-group-item:hover{ background-color: #a5678e; }
+body.category-27 a, body.category-27 span{ font-size: 27px; }
+body.category-27 i.fa.fa-universal-access { color: #fff; }
+body.category-27 a, body.category-27 i{ color:  #a5678e; }
+body.category-27 .btn.btn-primary{ background-color:  #a5678e; color: #fff }
+body.category-27 nav.navbar ul.navbar-nav { color:  #a5678e; }
+body.category-27 #nav-drawer-footer{background-color:  #a5678e;}
+body.category-27 .list-group-item:hover{background-color:  #a5678e;}
+body.category-27 .slicon-menu, body.category-27 .slicon-screen-smartphone { color: #fff; }
+body.category-27 nav.navbar .drawer-toggle{ background-color:  #7facd6; }
+	
+/* Elementary Grade 4 - Isaiah | Filipino 4 */
+body.category-28 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #33539e;}
+body.category-28 { background-color: #7facd6; }
+body.category-28 #nav-drawer .list-group .list-group-item:hover{ background-color: #a5678e; }
+body.category-28 a, body.category-28 span{ font-size: 27px; }
+body.category-28 i.fa.fa-universal-access { color: #fff; }
+body.category-28 a, body.category-28 i{ color:  #a5678e; }
+body.category-28 .btn.btn-primary{ background-color:  #a5678e; color: #fff }
+body.category-28 nav.navbar ul.navbar-nav { color:  #a5678e; }
+body.category-28 #nav-drawer-footer{background-color:  #a5678e;}
+body.category-28 .list-group-item:hover{background-color:  #a5678e;}
+body.category-28 .slicon-menu, body.category-28 .slicon-screen-smartphone { color: #fff; }
+body.category-28 nav.navbar .drawer-toggle{ background-color:  #7facd6; }
+
+/* Elementary Grade 4 - Jonah | Filipino 4 */
+body.category-29 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #33539e;}
+body.category-29 { background-color: #7facd6; }
+body.category-29 #nav-drawer .list-group .list-group-item:hover{ background-color: #a5678e; }
+body.category-29 a, body.category-29 span{ font-size: 27px; }
+body.category-29 i.fa.fa-universal-access { color: #fff; }
+body.category-29 a, body.category-29 i{ color:  #a5678e; }
+body.category-29 .btn.btn-primary{ background-color:  #a5678e; color: #fff }
+body.category-29 nav.navbar ul.navbar-nav { color:  #a5678e; }
+body.category-29 #nav-drawer-footer{background-color:  #a5678e;}
+body.category-29 .list-group-item:hover{background-color:  #a5678e;}
+body.category-29 .slicon-menu, body.category-29 .slicon-screen-smartphone { color: #fff; }
+body.category-29 nav.navbar .drawer-toggle{ background-color:  #7facd6; }
+	
+/* Elementary Grade 4 - Ezekiel | Filipino 4 */
+body.category-30 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #33539e;}
+body.category-30 { background-color: #7facd6; }
+body.category-30 #nav-drawer .list-group .list-group-item:hover{ background-color: #a5678e; }
+body.category-30 a, body.category-30 span{ font-size: 27px; }
+body.category-30 i.fa.fa-universal-access { color: #fff; }
+body.category-30 a, body.category-30 i{ color:  #a5678e; }
+body.category-30 .btn.btn-primary{ background-color:  #a5678e; color: #fff }
+body.category-30 nav.navbar ul.navbar-nav { color:  #a5678e; }
+body.category-30 #nav-drawer-footer{background-color:  #a5678e;}
+body.category-30 .list-group-item:hover{background-color:  #a5678e;}
+body.category-30 .slicon-menu, body.category-30 .slicon-screen-smartphone { color: #fff; }
+body.category-30 nav.navbar .drawer-toggle{ background-color:  #7facd6; }
+
+/* Elementary Grade 5 - Ruth */
+body.category-31 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #33539e;}
+body.category-31 { background-color: #7facd6; }
+body.category-31 #nav-drawer .list-group .list-group-item:hover{ background-color: #a5678e; }
+body.category-31 a, body.category-31 span{ font-size: 27px; }
+body.category-31 i.fa.fa-universal-access { color: #fff; }
+body.category-31 a, body.category-31 i{ color:  #a5678e; }
+body.category-31 .btn.btn-primary{ background-color:  #a5678e; color: #fff }
+body.category-31 nav.navbar ul.navbar-nav { color:  #a5678e; }
+body.category-31 #nav-drawer-footer{background-color:  #a5678e;}
+body.category-31 .list-group-item:hover{background-color:  #a5678e;}
+body.category-31 .slicon-menu, body.category-31 .slicon-screen-smartphone { color: #fff; }
+body.category-31 nav.navbar .drawer-toggle{ background-color:  #7facd6; }
+
+/* Elementary Grade 5 - Oseas */
+body.category-32 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #33539e;}
+body.category-32 { background-color: #7facd6; }
+body.category-32 #nav-drawer .list-group .list-group-item:hover{ background-color: #a5678e; }
+body.category-32 a, body.category-32 span{ font-size: 27px; }
+body.category-32 i.fa.fa-universal-access { color: #fff; }
+body.category-32 a, body.category-32 i{ color:  #a5678e; }
+body.category-32 .btn.btn-primary{ background-color:  #a5678e; color: #fff }
+body.category-32 nav.navbar ul.navbar-nav { color:  #a5678e; }
+body.category-32 #nav-drawer-footer{background-color:  #a5678e;}
+body.category-32 .list-group-item:hover{background-color:  #a5678e;}
+body.category-32 .slicon-menu, body.category-32 .slicon-screen-smartphone { color: #fff; }
+body.category-32 nav.navbar .drawer-toggle{ background-color:  #7facd6; }
+
+/* Elementary Grade 5 - Samuel */
+body.category-33 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #33539e;}
+body.category-33 { background-color: #7facd6; }
+body.category-33 #nav-drawer .list-group .list-group-item:hover{ background-color: #a5678e; }
+body.category-33 a, body.category-33 span{ font-size: 27px; }
+body.category-33 i.fa.fa-universal-access { color: #fff; }
+body.category-33 a, body.category-33 i{ color:  #a5678e; }
+body.category-33 .btn.btn-primary{ background-color:  #a5678e; color: #fff }
+body.category-33 nav.navbar ul.navbar-nav { color:  #a5678e; }
+body.category-33 #nav-drawer-footer{background-color:  #a5678e;}
+body.category-33 .list-group-item:hover{background-color:  #a5678e;}
+body.category-33 .slicon-menu, body.category-33 .slicon-screen-smartphone { color: #fff; }
+body.category-33 nav.navbar .drawer-toggle{ background-color:  #7facd6; }
+
+/* Elementary Grade 6 - Malachi */
+body.category-34 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #33539e;}
+body.category-34 { background-color: #7facd6; }
+body.category-34 #nav-drawer .list-group .list-group-item:hover{ background-color: #a5678e; }
+body.category-34 a, body.category-34 span{ font-size: 27px; }
+body.category-34 i.fa.fa-universal-access { color: #fff; }
+body.category-34 a, body.category-34 i{ color:  #a5678e; }
+body.category-34 .btn.btn-primary{ background-color:  #a5678e; color: #fff }
+body.category-34 nav.navbar ul.navbar-nav { color:  #a5678e; }
+body.category-34 #nav-drawer-footer{background-color:  #a5678e;}
+body.category-34 .list-group-item:hover{background-color:  #a5678e;}
+body.category-34 .slicon-menu, body.category-34 .slicon-screen-smartphone { color: #fff; }
+body.category-34 nav.navbar .drawer-toggle{ background-color:  #7facd6; }
+
+/* Elementary Grade 6 - Jeremiah */
+body.category-60 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #33539e;}
+body.category-60 { background-color: #7facd6; }
+body.category-60 #nav-drawer .list-group .list-group-item:hover{ background-color: #a5678e; }
+body.category-60 a, body.category-60 span{ font-size: 27px; }
+body.category-60 i.fa.fa-universal-access { color: #fff; }
+body.category-60 a, body.category-60 i{ color:  #a5678e; }
+body.category-60 .btn.btn-primary{ background-color:  #a5678e; color: #fff }
+body.category-60 nav.navbar ul.navbar-nav { color:  #a5678e; }
+body.category-60 #nav-drawer-footer{background-color:  #a5678e;}
+body.category-60 .list-group-item:hover{background-color:  #a5678e;}
+body.category-60 .slicon-menu, body.category-60 .slicon-screen-smartphone { color: #fff; }
+body.category-60 nav.navbar .drawer-toggle{ background-color:  #7facd6; }
+
+/* Elementary Grade 6- Ezra */
+body.category-61 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #33539e;}
+body.category-61 { background-color: #7facd6; }
+body.category-61 #nav-drawer .list-group .list-group-item:hover{ background-color: #a5678e; }
+body.category-61 a, body.category-61 span{ font-size: 27px; }
+body.category-61 i.fa.fa-universal-access { color: #fff; }
+body.category-61 a, body.category-61 i{ color:  #a5678e; }
+body.category-61 .btn.btn-primary{ background-color:  #a5678e; color: #fff }
+body.category-61 nav.navbar ul.navbar-nav { color:  #a5678e; }
+body.category-61 #nav-drawer-footer{background-color:  #a5678e;}
+body.category-61 .list-group-item:hover{background-color:  #a5678e;}
+body.category-61 .slicon-menu, body.category-61 .slicon-screen-smartphone { color: #fff; }
+body.category-61 nav.navbar .drawer-toggle{ background-color:  #7facd6; }
+
+/* Junior High Grade 7 - Bartholomew */
+body.category-62 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #173169;}
+body.category-62 { background-color: #e1e2cd; }
+body.category-62 #nav-drawer .list-group .list-group-item:hover{ background-color: #af5e2f; }
+body.category-62 a, body.category-62 span{ font-size: 20px; }
+body.category-62 i.fa.fa-universal-access { color: #fff; }
+body.category-62 a, body.category-62 i{ color:  #af5e2f; }
+body.category-62 .btn.btn-primary{ background-color:  #af5e2f; color: #fff }
+body.category-62 nav.navbar ul.navbar-nav { color:  #af5e2f; }
+body.category-62 #nav-drawer-footer{background-color:  #af5e2f;}
+body.category-62 .list-group-item:hover{background-color:  #af5e2f;}
+body.category-62 .slicon-menu, body.category-62 .slicon-screen-smartphone { color: #fff; }
+body.category-62 nav.navbar .drawer-toggle{ background-color:  #e1e2cd; }
+
+/* Junior High Grade 7 - Andrew */
+body.category-63 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #173169;}
+body.category-63 { background-color: #e1e2cd; }
+body.category-63 #nav-drawer .list-group .list-group-item:hover{ background-color: #af5e2f; }
+body.category-63 a, body.category-63 span{ font-size: 20px; }
+body.category-63 i.fa.fa-universal-access { color: #fff; }
+body.category-63 a, body.category-63 i{ color:  #af5e2f; }
+body.category-63 .btn.btn-primary{ background-color:  #af5e2f; color: #fff }
+body.category-63 nav.navbar ul.navbar-nav { color:  #af5e2f; }
+body.category-63 #nav-drawer-footer{background-color:  #af5e2f;}
+body.category-63 .list-group-item:hover{background-color:  #af5e2f;}
+body.category-63 .slicon-menu, body.category-63 .slicon-screen-smartphone { color: #fff; }
+body.category-63 nav.navbar .drawer-toggle{ background-color:  #e1e2cd; }
+
+/* Junior High Grade 7 - Cephas */
+body.category-64 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #173169;}
+body.category-64 { background-color: #e1e2cd; }
+body.category-64 #nav-drawer .list-group .list-group-item:hover{ background-color: #af5e2f; }
+body.category-64 a, body.category-64 span{ font-size: 20px; }
+body.category-64 i.fa.fa-universal-access { color: #fff; }
+body.category-64 a, body.category-64 i{ color:  #af5e2f; }
+body.category-64 .btn.btn-primary{ background-color:  #af5e2f; color: #fff }
+body.category-64 nav.navbar ul.navbar-nav { color:  #af5e2f; }
+body.category-64 #nav-drawer-footer{background-color:  #af5e2f;}
+body.category-64 .list-group-item:hover{background-color:  #af5e2f;}
+body.category-64 .slicon-menu, body.category-64 .slicon-screen-smartphone { color: #fff; }
+body.category-64 nav.navbar .drawer-toggle{ background-color:  #e1e2cd; }
+
+/* Junior High Grade 7 - Jude */
+body.category-65 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #173169;}
+body.category-65 { background-color: #e1e2cd; }
+body.category-65 #nav-drawer .list-group .list-group-item:hover{ background-color: #af5e2f; }
+body.category-65 a, body.category-65 span{ font-size: 20px; }
+body.category-65 i.fa.fa-universal-access { color: #fff; }
+body.category-65 a, body.category-65 i{ color:  #af5e2f; }
+body.category-65 .btn.btn-primary{ background-color:  #af5e2f; color: #fff }
+body.category-65 nav.navbar ul.navbar-nav { color:  #af5e2f; }
+body.category-65 #nav-drawer-footer{background-color:  #af5e2f;}
+body.category-65 .list-group-item:hover{background-color:  #af5e2f;}
+body.category-65 .slicon-menu, body.category-65 .slicon-screen-smartphone { color: #fff; }
+body.category-65 nav.navbar .drawer-toggle{ background-color:  #e1e2cd; }
+
+/* Junior High Grade 7 - Simon */
+body.category-66 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #173169;}
+body.category-66 { background-color: #e1e2cd; }
+body.category-66 #nav-drawer .list-group .list-group-item:hover{ background-color: #af5e2f; }
+body.category-66 a, body.category-66 span{ font-size: 20px; }
+body.category-66 i.fa.fa-universal-access { color: #fff; }
+body.category-66 a, body.category-66 i{ color:  #af5e2f; }
+body.category-66 .btn.btn-primary{ background-color:  #af5e2f; color: #fff }
+body.category-66 nav.navbar ul.navbar-nav { color:  #af5e2f; }
+body.category-66 #nav-drawer-footer{background-color:  #af5e2f;}
+body.category-66 .list-group-item:hover{background-color:  #af5e2f;}
+body.category-66 .slicon-menu, body.category-66 .slicon-screen-smartphone { color: #fff; }
+body.category-66 nav.navbar .drawer-toggle{ background-color:  #e1e2cd; }
+
+/* Junior High Grade 7 - Matthew */
+body.category-67 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #173169;}
+body.category-67 { background-color: #e1e2cd; }
+body.category-67 #nav-drawer .list-group .list-group-item:hover{ background-color: #af5e2f; }
+body.category-67 a, body.category-67 span{ font-size: 20px; }
+body.category-67 i.fa.fa-universal-access { color: #fff; }
+body.category-67 a, body.category-67 i{ color:  #af5e2f; }
+body.category-67 .btn.btn-primary{ background-color:  #af5e2f; color: #fff }
+body.category-67 nav.navbar ul.navbar-nav { color:  #af5e2f; }
+body.category-67 #nav-drawer-footer{background-color:  #af5e2f;}
+body.category-67 .list-group-item:hover{background-color:  #af5e2f;}
+body.category-67 .slicon-menu, body.category-67 .slicon-screen-smartphone { color: #fff; }
+body.category-67 nav.navbar .drawer-toggle{ background-color:  #e1e2cd; }
+
+/* Junior High Grade 8 - Levi */
+body.category-72 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #173169;}
+body.category-72 { background-color: #e1e2cd; }
+body.category-72 #nav-drawer .list-group .list-group-item:hover{ background-color: #af5e2f; }
+body.category-72 a, body.category-72 span{ font-size: 20px; }
+body.category-72 i.fa.fa-universal-access { color: #fff; }
+body.category-72 a, body.category-72 i{ color:  #af5e2f; }
+body.category-72 .btn.btn-primary{ background-color:  #af5e2f; color: #fff }
+body.category-72 nav.navbar ul.navbar-nav { color:  #af5e2f; }
+body.category-72 #nav-drawer-footer{background-color:  #af5e2f;}
+body.category-72 .list-group-item:hover{background-color:  #af5e2f;}
+body.category-72 .slicon-menu, body.category-72 .slicon-screen-smartphone { color: #fff; }
+body.category-72 nav.navbar .drawer-toggle{ background-color:  #e1e2cd; }
+
+/* Junior High Grade 8 - Matthias */
+body.category-73 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #173169;}
+body.category-73 { background-color: #e1e2cd; }
+body.category-73 #nav-drawer .list-group .list-group-item:hover{ background-color: #af5e2f; }
+body.category-73 a, body.category-73 span{ font-size: 20px; }
+body.category-73 i.fa.fa-universal-access { color: #fff; }
+body.category-73 a, body.category-73 i{ color:  #af5e2f; }
+body.category-73 .btn.btn-primary{ background-color:  #af5e2f; color: #fff }
+body.category-73 nav.navbar ul.navbar-nav { color:  #af5e2f; }
+body.category-73 #nav-drawer-footer{background-color:  #af5e2f;}
+body.category-73 .list-group-item:hover{background-color:  #af5e2f;}
+body.category-73 .slicon-menu, body.category-73 .slicon-screen-smartphone { color: #fff; }
+body.category-73 nav.navbar .drawer-toggle{ background-color:  #e1e2cd; }
+
+/* Junior High Grade 8 - Thomas */
+body.category-74 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #173169;}
+body.category-74 { background-color: #e1e2cd; }
+body.category-74 #nav-drawer .list-group .list-group-item:hover{ background-color: #af5e2f; }
+body.category-74 a, body.category-74 span{ font-size: 20px; }
+body.category-74 i.fa.fa-universal-access { color: #fff; }
+body.category-74 a, body.category-74 i{ color:  #af5e2f; }
+body.category-74 .btn.btn-primary{ background-color:  #af5e2f; color: #fff }
+body.category-74 nav.navbar ul.navbar-nav { color:  #af5e2f; }
+body.category-74 #nav-drawer-footer{background-color:  #af5e2f;}
+body.category-74 .list-group-item:hover{background-color:  #af5e2f;}
+body.category-74 .slicon-menu, body.category-74 .slicon-screen-smartphone { color: #fff; }
+body.category-74 nav.navbar .drawer-toggle{ background-color:  #e1e2cd; }
+
+/* Junior High Grade 8 - Peter */
+body.category-75 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #173169;}
+body.category-75 { background-color: #e1e2cd; }
+body.category-75 #nav-drawer .list-group .list-group-item:hover{ background-color: #af5e2f; }
+body.category-75 a, body.category-75 span{ font-size: 20px; }
+body.category-75 i.fa.fa-universal-access { color: #fff; }
+body.category-75 a, body.category-75 i{ color:  #af5e2f; }
+body.category-75 .btn.btn-primary{ background-color:  #af5e2f; color: #fff }
+body.category-75 nav.navbar ul.navbar-nav { color:  #af5e2f; }
+body.category-75 #nav-drawer-footer{background-color:  #af5e2f;}
+body.category-75 .list-group-item:hover{background-color:  #af5e2f;}
+body.category-75 .slicon-menu, body.category-75 .slicon-screen-smartphone { color: #fff; }
+body.category-75 nav.navbar .drawer-toggle{ background-color:  #e1e2cd; }
+
+/* Junior High Grade 8 - Thaddeus */
+body.category-76 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #173169;}
+body.category-76 { background-color: #e1e2cd; }
+body.category-76 #nav-drawer .list-group .list-group-item:hover{ background-color: #af5e2f; }
+body.category-76 a, body.category-76 span{ font-size: 20px; }
+body.category-76 i.fa.fa-universal-access { color: #fff; }
+body.category-76 a, body.category-76 i{ color:  #af5e2f; }
+body.category-76 .btn.btn-primary{ background-color:  #af5e2f; color: #fff }
+body.category-76 nav.navbar ul.navbar-nav { color:  #af5e2f; }
+body.category-76 #nav-drawer-footer{background-color:  #af5e2f;}
+body.category-76 .list-group-item:hover{background-color:  #af5e2f;}
+body.category-76 .slicon-menu, body.category-76 .slicon-screen-smartphone { color: #fff; }
+body.category-76 nav.navbar .drawer-toggle{ background-color:  #e1e2cd; }
+
+/* Junior High Grade 9 - Phillip */
+body.category-77 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #173169;}
+body.category-77 { background-color: #e1e2cd; }
+body.category-77 #nav-drawer .list-group .list-group-item:hover{ background-color: #af5e2f; }
+body.category-77 a, body.category-77 span{ font-size: 20px; }
+body.category-77 i.fa.fa-universal-access { color: #fff; }
+body.category-77 a, body.category-77 i{ color:  #af5e2f; }
+body.category-77 .btn.btn-primary{ background-color:  #af5e2f; color: #fff }
+body.category-77 nav.navbar ul.navbar-nav { color:  #af5e2f; }
+body.category-77 #nav-drawer-footer{background-color:  #af5e2f;}
+body.category-77 .list-group-item:hover{background-color:  #af5e2f;}
+body.category-77 .slicon-menu, body.category-77 .slicon-screen-smartphone { color: #fff; }
+body.category-77 nav.navbar .drawer-toggle{ background-color:  #e1e2cd; }
+
+/* Junior High Grade 9 - John */
+body.category-78 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #173169;}
+body.category-78 { background-color: #e1e2cd; }
+body.category-78 #nav-drawer .list-group .list-group-item:hover{ background-color: #af5e2f; }
+body.category-78 a, body.category-78 span{ font-size: 20px; }
+body.category-78 i.fa.fa-universal-access { color: #fff; }
+body.category-78 a, body.category-78 i{ color:  #af5e2f; }
+body.category-78 .btn.btn-primary{ background-color:  #af5e2f; color: #fff }
+body.category-78 nav.navbar ul.navbar-nav { color:  #af5e2f; }
+body.category-78 #nav-drawer-footer{background-color:  #af5e2f;}
+body.category-78 .list-group-item:hover{background-color:  #af5e2f;}
+body.category-78 .slicon-menu, body.category-78 .slicon-screen-smartphone { color: #fff; }
+body.category-78 nav.navbar .drawer-toggle{ background-color:  #e1e2cd; }
+
+/* Junior High Grade 9 - Barnabas */
+body.category-79 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #173169;}
+body.category-79 { background-color: #e1e2cd; }
+body.category-79 #nav-drawer .list-group .list-group-item:hover{ background-color: #af5e2f; }
+body.category-79 a, body.category-79 span{ font-size: 20px; }
+body.category-79 i.fa.fa-universal-access { color: #fff; }
+body.category-79 a, body.category-79 i{ color:  #af5e2f; }
+body.category-79 .btn.btn-primary{ background-color:  #af5e2f; color: #fff }
+body.category-79 nav.navbar ul.navbar-nav { color:  #af5e2f; }
+body.category-79 #nav-drawer-footer{background-color:  #af5e2f;}
+body.category-79 .list-group-item:hover{background-color:  #af5e2f;}
+body.category-79 .slicon-menu, body.category-79 .slicon-screen-smartphone { color: #fff; }
+body.category-79 nav.navbar .drawer-toggle{ background-color:  #e1e2cd; }
+
+/* Junior High Grade 9 - Paul */
+body.category-80 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #173169;}
+body.category-80 { background-color: #e1e2cd; }
+body.category-80 #nav-drawer .list-group .list-group-item:hover{ background-color: #af5e2f; }
+body.category-80 a, body.category-80 span{ font-size: 20px; }
+body.category-80 i.fa.fa-universal-access { color: #fff; }
+body.category-80 a, body.category-80 i{ color:  #af5e2f; }
+body.category-80 .btn.btn-primary{ background-color:  #af5e2f; color: #fff }
+body.category-80 nav.navbar ul.navbar-nav { color:  #af5e2f; }
+body.category-80 #nav-drawer-footer{background-color:  #af5e2f;}
+body.category-80 .list-group-item:hover{background-color:  #af5e2f;}
+body.category-80 .slicon-menu, body.category-80 .slicon-screen-smartphone { color: #fff; }
+body.category-80 nav.navbar .drawer-toggle{ background-color:  #e1e2cd; }
+
+/* Junior High Grade 10 - Mark */
+body.category-81 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #173169;}
+body.category-81 { background-color: #e1e2cd; }
+body.category-81 #nav-drawer .list-group .list-group-item:hover{ background-color: #af5e2f; }
+body.category-81 a, body.category-81 span{ font-size: 20px; }
+body.category-81 i.fa.fa-universal-access { color: #fff; }
+body.category-81 a, body.category-81 i{ color:  #af5e2f; }
+body.category-81 .btn.btn-primary{ background-color:  #af5e2f; color: #fff }
+body.category-81 nav.navbar ul.navbar-nav { color:  #af5e2f; }
+body.category-81 #nav-drawer-footer{background-color:  #af5e2f;}
+body.category-81 .list-group-item:hover{background-color:  #af5e2f;}
+body.category-81 .slicon-menu, body.category-81 .slicon-screen-smartphone { color: #fff; }
+body.category-81 nav.navbar .drawer-toggle{ background-color:  #e1e2cd; }
+
+/* Junior High Grade 10 - Timothy */
+body.category-82 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #173169;}
+body.category-82 { background-color: #e1e2cd; }
+body.category-82 #nav-drawer .list-group .list-group-item:hover{ background-color: #af5e2f; }
+body.category-82 a, body.category-82 span{ font-size: 20px; }
+body.category-82 i.fa.fa-universal-access { color: #fff; }
+body.category-82 a, body.category-82 i{ color:  #af5e2f; }
+body.category-82 .btn.btn-primary{ background-color:  #af5e2f; color: #fff }
+body.category-82 nav.navbar ul.navbar-nav { color:  #af5e2f; }
+body.category-82 #nav-drawer-footer{background-color:  #af5e2f;}
+body.category-82 .list-group-item:hover{background-color:  #af5e2f;}
+body.category-82 .slicon-menu, body.category-82 .slicon-screen-smartphone { color: #fff; }
+body.category-82 nav.navbar .drawer-toggle{ background-color:  #e1e2cd; }
+
+/* Junior High Grade 10 - Titus */
+body.category-83 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #173169;}
+body.category-83 { background-color: #e1e2cd; }
+body.category-83 #nav-drawer .list-group .list-group-item:hover{ background-color: #af5e2f; }
+body.category-83 a, body.category-83 span{ font-size: 20px; }
+body.category-83 i.fa.fa-universal-access { color: #fff; }
+body.category-83 a, body.category-83 i{ color:  #af5e2f; }
+body.category-83 .btn.btn-primary{ background-color:  #af5e2f; color: #fff }
+body.category-83 nav.navbar ul.navbar-nav { color:  #af5e2f; }
+body.category-83 #nav-drawer-footer{background-color:  #af5e2f;}
+body.category-83 .list-group-item:hover{background-color:  #af5e2f;}
+body.category-83 .slicon-menu, body.category-83 .slicon-screen-smartphone { color: #fff; }
+body.category-83 nav.navbar .drawer-toggle{ background-color:  #e1e2cd; }
+
+/* Junior High Grade 10 - Luke */
+body.category-84 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #173169;}
+body.category-84 { background-color: #e1e2cd; }
+body.category-84 #nav-drawer .list-group .list-group-item:hover{ background-color: #af5e2f; }
+body.category-84 a, body.category-84 span{ font-size: 20px; }
+body.category-84 i.fa.fa-universal-access { color: #fff; }
+body.category-84 a, body.category-84 i{ color:  #af5e2f; }
+body.category-84 .btn.btn-primary{ background-color:  #af5e2f; color: #fff }
+body.category-84 nav.navbar ul.navbar-nav { color:  #af5e2f; }
+body.category-84 #nav-drawer-footer{background-color:  #af5e2f;}
+body.category-84 .list-group-item:hover{background-color:  #af5e2f;}
+body.category-84 .slicon-menu, body.category-84 .slicon-screen-smartphone { color: #fff; }
+body.category-84 nav.navbar .drawer-toggle{ background-color:  #e1e2cd; }
+
+
+/* Senior High Grade 11 ABM - A */
+body.category-91 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #002f5f;}
+body.category-91 { background-color: #b3bec2; }
+body.category-91 a, body.category-91, p { color: #002f5f; }
+body.category-91 #nav-drawer .list-group .list-group-item:hover{ background-color: #ffd376; }
+body.category-91 a, body.category-91 span{ font-size: 20px; }
+body.category-91 i.fa.fa-universal-access { color: #fff; }
+body.category-91 i { color:  #ffd376 }
+body.category-91 .btn.btn-primary{ background-color:  #ffd376; color: #fff }
+body.category-91 nav.navbar ul.navbar-nav { color:  #ffd376; }
+body.category-91 #nav-drawer-footer{background-color:  #ffd376;}
+body.category-91 .list-group-item:hover{background-color:  #ffd376;}
+body.category-91 .slicon-menu, body.category-91 .slicon-screen-smartphone { color: #fff; }
+body.category-91 nav.navbar .drawer-toggle{ background-color:  #b3bec2; }
+
+/* Senior High Grade 11 ABM - B */
+body.category-92 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #002f5f;}
+body.category-92 { background-color: #b3bec2; }
+body.category-92 a, body.category-92 { color: #002f5f; }
+body.category-92 #nav-drawer .list-group .list-group-item:hover{ background-color: #ffd376; }
+body.category-92 a, body.category-92 span{ font-size: 20px; }
+body.category-92 i.fa.fa-universal-access { color: #fff; }
+body.category-91 i, body.category-91 { color:  #ffd376 }
+body.category-92 .btn.btn-primary{ background-color:  #ffd376; color: #fff }
+body.category-92 nav.navbar ul.navbar-nav { color:  #ffd376; }
+body.category-92 #nav-drawer-footer{background-color:  #ffd376;}
+body.category-92 .list-group-item:hover{background-color:  #ffd376;}
+body.category-92 .slicon-menu, body.category-92 .slicon-screen-smartphone { color: #fff; }
+body.category-92 nav.navbar .drawer-toggle{ background-color:  #b3bec2; }
+
+/* Senior High Grade 11 HUMMS - A */
+body.category-93 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #002f5f;}
+body.category-93 { background-color: #b3bec2; }
+body.category-93 a, body.category-93 { color: #002f5f; }
+body.category-93 #nav-drawer .list-group .list-group-item:hover{ background-color: #ffd376; }
+body.category-93 a, body.category-93 span{ font-size: 20px; }
+body.category-93 i.fa.fa-universal-access { color: #fff; }
+body.category-93 i, body.category-93 { color:  #ffd376 }
+body.category-93 .btn.btn-primary{ background-color:  #ffd376; color: #fff }
+body.category-93 nav.navbar ul.navbar-nav { color:  #ffd376; }
+body.category-93 #nav-drawer-footer{background-color:  #ffd376;}
+body.category-93 .list-group-item:hover{background-color:  #ffd376;}
+body.category-93 .slicon-menu, body.category-93 .slicon-screen-smartphone { color: #fff; }
+body.category-93 nav.navbar .drawer-toggle{ background-color:  #b3bec2; }
+
+/* Senior High Grade 11 HUMMS - B */
+body.category-94 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #002f5f;}
+body.category-94 { background-color: #b3bec2; }
+body.category-94 a, body.category-94 { color: #002f5f; }
+body.category-94 #nav-drawer .list-group .list-group-item:hover{ background-color: #ffd376; }
+body.category-94 a, body.category-94 span{ font-size: 20px; }
+body.category-94 i.fa.fa-universal-access { color: #fff; }
+body.category-94 i, body.category-94 { color:  #ffd376 }
+body.category-94 .btn.btn-primary{ background-color:  #ffd376; color: #fff }
+body.category-94 nav.navbar ul.navbar-nav { color:  #ffd376; }
+body.category-94 #nav-drawer-footer{background-color:  #ffd376;}
+body.category-94 .list-group-item:hover{background-color:  #ffd376;}
+body.category-94 .slicon-menu, body.category-94 .slicon-screen-smartphone { color: #fff; }
+body.category-94 nav.navbar .drawer-toggle{ background-color:  #b3bec2; }
+
+/* Senior High Grade 11 STEM - A */
+body.category-95 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #002f5f;}
+body.category-95 { background-color: #b3bec2; }
+body.category-95 a, body.category-95 { color: #002f5f; }
+body.category-95 #nav-drawer .list-group .list-group-item:hover{ background-color: #ffd376; }
+body.category-95 a, body.category-95 span{ font-size: 20px; }
+body.category-95 i.fa.fa-universal-access { color: #fff; }
+body.category-95 i, body.category-95 { color:  #ffd376 }
+body.category-95 .btn.btn-primary{ background-color:  #ffd376; color: #fff }
+body.category-95 nav.navbar ul.navbar-nav { color:  #ffd376; }
+body.category-95 #nav-drawer-footer{background-color:  #ffd376;}
+body.category-95 .list-group-item:hover{background-color:  #ffd376;}
+body.category-95 .slicon-menu, body.category-95 .slicon-screen-smartphone { color: #fff; }
+body.category-95 nav.navbar .drawer-toggle{ background-color:  #b3bec2; }
+
+/* Senior High Grade 11 STEM - B */
+body.category-96 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #002f5f;}
+body.category-96 { background-color: #b3bec2; }
+body.category-96 a, body.category-96 { color: #002f5f; }
+body.category-96 #nav-drawer .list-group .list-group-item:hover{ background-color: #ffd376; }
+body.category-96 a, body.category-96 span{ font-size: 20px; }
+body.category-96 i.fa.fa-universal-access { color: #fff; }
+body.category-96 i { color:  #ffd376 }
+body.category-96 .btn.btn-primary{ background-color:  #ffd376; color: #fff }
+body.category-96 nav.navbar ul.navbar-nav { color:  #ffd376; }
+body.category-96 #nav-drawer-footer{background-color:  #ffd376;}
+body.category-96 .list-group-item:hover{background-color:  #ffd376;}
+body.category-96 .slicon-menu, body.category-96 .slicon-screen-smartphone { color: #fff; }
+body.category-96 nav.navbar .drawer-toggle{ background-color:  #b3bec2; }
+
+/* Senior High Grade 11 STEM - C */
+body.category-97 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #002f5f;}
+body.category-97 { background-color: #b3bec2; }
+body.category-97 a, body.category-97 { color: #002f5f; }
+body.category-97 #nav-drawer .list-group .list-group-item:hover{ background-color: #ffd376; }
+body.category-97 a, body.category-97 span{ font-size: 20px; }
+body.category-97 i.fa.fa-universal-access { color: #fff; }
+body.category-97 i { color:  #ffd376 }
+body.category-97 .btn.btn-primary{ background-color:  #ffd376; color: #fff }
+body.category-97 nav.navbar ul.navbar-nav { color:  #ffd376; }
+body.category-97 #nav-drawer-footer{background-color:  #ffd376;}
+body.category-97 .list-group-item:hover{background-color:  #ffd376;}
+body.category-97 .slicon-menu, body.category-97 .slicon-screen-smartphone { color: #fff; }
+body.category-97 nav.navbar .drawer-toggle{ background-color:  #b3bec2; }
+
+/* Senior High Grade 12 ABM - A */
+body.category-98 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #002f5f;}
+body.category-98 { background-color: #b3bec2; }
+body.category-98 a, body.category-98 { color: #002f5f; }
+body.category-98 #nav-drawer .list-group .list-group-item:hover{ background-color: #ffd376; }
+body.category-98 a, body.category-98 span{ font-size: 20px; }
+body.category-98 i.fa.fa-universal-access { color: #fff; }
+body.category-98 i { color:  #ffd376 }
+body.category-98 .btn.btn-primary{ background-color:  #ffd376; color: #fff }
+body.category-98 nav.navbar ul.navbar-nav { color:  #ffd376; }
+body.category-98 #nav-drawer-footer{background-color:  #ffd376;}
+body.category-98 .list-group-item:hover{background-color:  #ffd376;}
+body.category-98 .slicon-menu, body.category-98 .slicon-screen-smartphone { color: #fff; }
+body.category-98 nav.navbar .drawer-toggle{ background-color:  #b3bec2; }
+
+/* Senior High Grade 12 ABM - B */
+body.category-99 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #002f5f;}
+body.category-99 { background-color: #b3bec2; }
+body.category-99 a, body.category-99 { color: #002f5f; }
+body.category-99 #nav-drawer .list-group .list-group-item:hover{ background-color: #ffd376; }
+body.category-99 a, body.category-99 span{ font-size: 20px; }
+body.category-99 i.fa.fa-universal-access { color: #fff; }
+body.category-99 i { color:  #ffd376 }
+body.category-99 .btn.btn-primary{ background-color:  #ffd376; color: #fff }
+body.category-99 nav.navbar ul.navbar-nav { color:  #ffd376; }
+body.category-99 #nav-drawer-footer{background-color:  #ffd376;}
+body.category-99 .list-group-item:hover{background-color:  #ffd376;}
+body.category-99 .slicon-menu, body.category-99 .slicon-screen-smartphone { color: #fff; }
+body.category-99 nav.navbar .drawer-toggle{ background-color:  #b3bec2; }
+
+/* Senior High Grade 12 HUMMS - A */
+body.category-100 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #002f5f;}
+body.category-100 { background-color: #b3bec2; }
+body.category-100 a, body.category-100 { color: #002f5f; }
+body.category-100 #nav-drawer .list-group .list-group-item:hover{ background-color: #ffd376; }
+body.category-100 a, body.category-100 span{ font-size: 20px; }
+body.category-100 i.fa.fa-universal-access { color: #fff; }
+body.category-100 i { color:  #ffd376 }
+body.category-100 .btn.btn-primary{ background-color:  #ffd376; color: #fff }
+body.category-100 nav.navbar ul.navbar-nav { color:  #ffd376; }
+body.category-100 #nav-drawer-footer{background-color:  #ffd376;}
+body.category-100 .list-group-item:hover{background-color:  #ffd376;}
+body.category-100 .slicon-menu, body.category-100 .slicon-screen-smartphone { color: #fff; }
+body.category-100 nav.navbar .drawer-toggle{ background-color:  #b3bec2; }
+
+/* Senior High Grade 12 HUMMS - B */
+body.category-101 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #002f5f;}
+body.category-101 { background-color: #b3bec2; }
+body.category-101 a, body.category-101 { color: #002f5f; }
+body.category-101 #nav-drawer .list-group .list-group-item:hover{ background-color: #ffd376; }
+body.category-101 a, body.category-101 span{ font-size: 20px; }
+body.category-101 i.fa.fa-universal-access { color: #fff; }
+body.category-101 i { color:  #ffd376 }
+body.category-101 .btn.btn-primary{ background-color:  #ffd376; color: #fff }
+body.category-101 nav.navbar ul.navbar-nav { color:  #ffd376; }
+body.category-101 #nav-drawer-footer{background-color:  #ffd376;}
+body.category-101 .list-group-item:hover{background-color:  #ffd376;}
+body.category-101 .slicon-menu, body.category-101 .slicon-screen-smartphone { color: #fff; }
+body.category-101 nav.navbar .drawer-toggle{ background-color:  #b3bec2; }
+
+/* Senior High Grade 12 - STEM A */
+body.category-102 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #002f5f;}
+body.category-102 { background-color: #b3bec2; }
+body.category-102 a, body.category-102 { color: #002f5f; }
+body.category-102 #nav-drawer .list-group .list-group-item:hover{ background-color: #ffd376; }
+body.category-102 a, body.category-102 span{ font-size: 20px; }
+body.category-102 i.fa.fa-universal-access { color: #fff; }
+body.category-102 i { color:  #ffd376 }
+body.category-102 .btn.btn-primary{ background-color:  #ffd376; color: #fff }
+body.category-102 nav.navbar ul.navbar-nav { color:  #ffd376; }
+body.category-102 #nav-drawer-footer{background-color:  #ffd376;}
+body.category-102 .list-group-item:hover{background-color:  #ffd376;}
+body.category-102 .slicon-menu, body.category-102 .slicon-screen-smartphone { color: #fff; }
+body.category-102 nav.navbar .drawer-toggle{ background-color:  #b3bec2; }
+
+/* Senior High Grade 12 STEM - B */
+body.category-103 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #002f5f;}
+body.category-103 { background-color: #b3bec2; }
+body.category-103 a, body.category-103 { color: #002f5f; }
+body.category-103 #nav-drawer .list-group .list-group-item:hover{ background-color: #ffd376; }
+body.category-103 a, body.category-103 span{ font-size: 20px; }
+body.category-103 i.fa.fa-universal-access { color: #fff; }
+body.category-103 i { color:  #ffd376 }
+body.category-103 .btn.btn-primary{ background-color:  #ffd376; color: #fff }
+body.category-103 nav.navbar ul.navbar-nav { color:  #ffd376; }
+body.category-103 #nav-drawer-footer{background-color:  #ffd376;}
+body.category-103 .list-group-item:hover{background-color:  #ffd376;}
+body.category-103 .slicon-menu, body.category-103 .slicon-screen-smartphone { color: #fff; }
+body.category-103 nav.navbar .drawer-toggle{ background-color:  #b3bec2; }
+
+/* Senior High Grade 12 STEM - C */
+body.category-104 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #002f5f;}
+body.category-104 { background-color: #b3bec2; }
+body.category-104 a, body.category-104 { color: #002f5f; }
+body.category-104 #nav-drawer .list-group .list-group-item:hover{ background-color: #ffd376; }
+body.category-104 a, body.category-104 span{ font-size: 20px; }
+body.category-104 i.fa.fa-universal-access { color: #fff; }
+body.category-104 i { color:  #ffd376 }
+body.category-104 .btn.btn-primary{ background-color:  #ffd376; color: #fff }
+body.category-104 nav.navbar ul.navbar-nav { color:  #ffd376; }
+body.category-104 #nav-drawer-footer{background-color:  #ffd376;}
+body.category-104 .list-group-item:hover{background-color:  #ffd376;}
+body.category-104 .slicon-menu, body.category-104 .slicon-screen-smartphone { color: #fff; }
+body.category-104 nav.navbar .drawer-toggle{ background-color:  #b3bec2; }
+
+/* Senior High Grade 12 - GAS */
+body.category-105 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #002f5f;}
+body.category-105 { background-color: #b3bec2; }
+body.category-105 a, body.category-105 { color: #002f5f; }
+body.category-105 #nav-drawer .list-group .list-group-item:hover{ background-color: #ffd376; }
+body.category-105 a, body.category-105 span{ font-size: 20px; }
+body.category-105 i.fa.fa-universal-access { color: #fff; }
+body.category-105 i { color:  #ffd376 }
+body.category-105 .btn.btn-primary{ background-color:  #ffd376; color: #fff }
+body.category-105 nav.navbar ul.navbar-nav { color:  #ffd376; }
+body.category-105 #nav-drawer-footer{background-color:  #ffd376;}
+body.category-105 .list-group-item:hover{background-color:  #ffd376;}
+body.category-105 .slicon-menu, body.category-105 .slicon-screen-smartphone { color: #fff; }
+body.category-105 nav.navbar .drawer-toggle{ background-color:  #b3bec2; }
+
+/* Senior High Grade 12 - ICT */
+body.category-106 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #002f5f;}
+body.category-106 { background-color: #b3bec2; }
+body.category-106 a, body.category-106 { color: #002f5f; }
+body.category-106 #nav-drawer .list-group .list-group-item:hover{ background-color: #ffd376; }
+body.category-106 a, body.category-106 span{ font-size: 20px; }
+body.category-106 i.fa.fa-universal-access { color: #fff; }
+body.category-106 i { color:  #ffd376 }
+body.category-106 .btn.btn-primary{ background-color:  #ffd376; color: #fff }
+body.category-106 nav.navbar ul.navbar-nav { color:  #ffd376; }
+body.category-106 #nav-drawer-footer{background-color:  #ffd376;}
+body.category-106 .list-group-item:hover{background-color:  #ffd376;}
+body.category-106 .slicon-menu, body.category-106 .slicon-screen-smartphone { color: #fff; }
+body.category-106 nav.navbar .drawer-toggle{ background-color:  #b3bec2; }
+
+/* Senior High Grade 12 - CULINARY */
+body.category-107 #nav-drawer, #nav-drawer.closed .list-group .list-group-item:hover > ul  {background-color: #002f5f;}
+body.category-107 { background-color: #b3bec2; }
+body.category-107 a, body.category-107 { color: #002f5f; }
+body.category-107 #nav-drawer .list-group .list-group-item:hover{ background-color: #ffd376; }
+body.category-107 a, body.category-107 span{ font-size: 20px; }
+body.category-107 i.fa.fa-universal-access { color: #fff; }
+body.category-107 i { color:  #ffd376 }
+body.category-107 .btn.btn-primary{ background-color:  #ffd376; color: #fff }
+body.category-107 nav.navbar ul.navbar-nav { color:  #ffd376; }
+body.category-107 #nav-drawer-footer{background-color:  #ffd376;}
+body.category-107 .list-group-item:hover{background-color:  #ffd376;}
+body.category-107 .slicon-menu, body.category-107 .slicon-screen-smartphone { color: #fff; }
+body.category-107 nav.navbar .drawer-toggle{ background-color:  #b3bec2; }
